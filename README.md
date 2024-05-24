@@ -17,3 +17,4 @@ Os dados são reais e foram extraídos do link: https://community.tableau.com/s/
 Algumas simplificações foram feitas no dataset...
 
 ## dataset Salários dos Cientistas de Dados
+Dados disponíveis no Kaggle ..
